@@ -46,7 +46,7 @@ module.exports = {
         password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: false
+        secure: true
     },
  ]
 }
